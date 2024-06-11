@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
 <h3 align="center">Creating things for web and mobile</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danialamin" alt="danialamin" /></a> </p>
-
 - 🔭 I’m currently working on [Ecommerce project](https://github.com/danialamin/Ecommerce-NextJS)
 
 - 🌱 I’m currently learning **NextJS & SQL & React Native**
